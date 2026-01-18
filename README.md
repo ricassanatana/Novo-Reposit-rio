@@ -1,2 +1,8 @@
-# Novo-Reposit-rio
-Repositótio
+# This is a commet.
+# Each line is a file pattern followed by one or more owers.
+
+#These owners will be the default owers for everything in
+#the repo. Unless a leter match takes precedence,
+#@global-owner1 and @global-owner2 will be requested for
+#review when someone opens a pull request.
+*      @global-owner1  @glabal1-owner2
