@@ -1,5 +1,5 @@
 # This is a commet.
-# Each line is a file pattern followed by one or more owers.
+# Each line is a file pattern followed by one or more owners.
 
 #These owners will be the default owers for everything in
 #the repo. Unless a leter match takes precedence,
